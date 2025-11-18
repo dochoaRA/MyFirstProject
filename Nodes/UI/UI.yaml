@@ -313,6 +313,11 @@ Children:
           DataType: HorizontalAlignment
           ModellingRule: Optional
           Value: 2
+        - Name: TextColor
+          Type: BaseDataVariableType
+          DataType: Color
+          ModellingRule: Optional
+          Value: "#1ae23b"
     - Name: PanelLoader1
       Type: PanelLoader
       Children:
